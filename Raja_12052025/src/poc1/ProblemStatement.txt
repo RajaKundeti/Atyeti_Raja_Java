@@ -1,0 +1,12 @@
+Bank Account Simulation with Variable Shadowing and Static Variables
+
+Description:
+------------
+Create a Java class BankAccount that simulates multiple user accounts using instance variables and static variables.
+The class should:
+Use static variables to track the total number of accounts and total money in the bank.
+Use instance variables for account number and balance.
+Demonstrate variable shadowing where a method parameter has the same name as a class variable.
+Include deposit, withdraw, and transfer methods.
+Show how the variable values change with each operation.
+Objective: Understand static vs. instance variables, variable shadowing, and the effect of operations on them.

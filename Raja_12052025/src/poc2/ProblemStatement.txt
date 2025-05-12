@@ -1,0 +1,10 @@
+Game Score Tracker using Global, Local, and Final Variables
+
+Description:
+-------------
+Create a Java class GameTracker to track a player's score.
+Use global variables for player name and score.
+Inside a method, use a local variable with the same name as the global one to simulate a temporary override.
+Use a final variable to represent the maximum level of the game.
+Provide methods to increase score, level up, and reset score.
+Objective: Practice scoping rules, variable shadowing, and use of final for constants.

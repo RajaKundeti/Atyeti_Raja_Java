@@ -1,0 +1,11 @@
+Student Grade Calculator using Array Variables and Dynamic Input
+
+Description:
+-------------
+Design a program that:
+Accepts names and marks of n students.
+Stores them in appropriate data structures.
+Uses variables to dynamically compute and store
+the highest scorer, lowest scorer, and class average.
+All data should be stored and updated through methods using local and instance variables properly.
+Objective: Explore use of arrays with variables, variable updates inside loops, and method-level scoping.

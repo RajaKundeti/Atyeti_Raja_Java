@@ -1,0 +1,9 @@
+Income Tax Slab Calculator
+Develop a program that calculates income tax for an individual
+based on the following slab system:
+- Income <= 2.5L: No tax
+- 2.5L < Income <= 5L: 5%
+- 5L < Income <= 10L: 20%
+- Income > 10L: 30%
+Use nested if-else statements, arithmetic operators for slab-wise tax calculation,
+and display the total tax.

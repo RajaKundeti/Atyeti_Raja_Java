@@ -1,0 +1,8 @@
+Hotel Room Booking System
+Create a program that simulates booking a hotel room.
+Input:
+- Number of people
+- AC/Non-AC
+- Number of days
+Based on the input, calculate the total cost. Apply a 10% discount for bookings over 5 days.
+Use switch-case, arithmetic, and relational operators.

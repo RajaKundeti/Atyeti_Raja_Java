@@ -1,0 +1,6 @@
+Movie Ticket Booking with Seat Allotment
+Simulate a movie ticket booking system:
+- User selects number of seats, show timing, and class (Regular/Premium)
+- Display ticket cost and assign seat numbers
+- Premium class costs 1.5x more
+Use loops, conditionals, and switch-case

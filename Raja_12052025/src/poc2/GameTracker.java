@@ -20,28 +20,8 @@ public class GameTracker {
     }
 
     public void levelUp() {
-        if (playerLevel < maxLevel) {
-            if (score <= 10) {
-                playerLevel = 1;
-            } else if (score <= 20) {
-                playerLevel = 2;
-            } else if (score <= 30) {
-                playerLevel = 3;
-            } else if (score <= 40) {
-                playerLevel = 4;
-            } else if (score <= 50) {
-                playerLevel = 5;
-            } else if (score <= 60) {
-                playerLevel = 6;
-            } else if (score <= 70) {
-                playerLevel = 7;
-            } else if (score <= 80) {
-                playerLevel = 8;
-            } else if (score <= 90) {
-                playerLevel = 9;
-            } else {
-                playerLevel = 10;
-            }
+        if (playerLevel< 10 && score > 0) {
+            playerLevel = (score - 1) / 10 + 1;
             System.out.println("Hurrah! LEVEL UP");
             System.out.println("You are currently at level " + playerLevel);
         }

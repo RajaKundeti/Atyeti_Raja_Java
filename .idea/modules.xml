@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Atyeti_Raja_Java.iml" filepath="$PROJECT_DIR$/.idea/Atyeti_Raja_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raja_12052025/Raja_12052025.iml" filepath="$PROJECT_DIR$/Raja_12052025/Raja_12052025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raja_13052025/Raja_13052025.iml" filepath="$PROJECT_DIR$/Raja_13052025/Raja_13052025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raja_14052025/Raja_14052025.iml" filepath="$PROJECT_DIR$/Raja_14052025/Raja_14052025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raja_15052025/Raja_15052025.iml" filepath="$PROJECT_DIR$/Raja_15052025/Raja_15052025.iml" />
+    </modules>
+  </component>
+</project>

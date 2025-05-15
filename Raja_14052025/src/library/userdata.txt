@@ -1,0 +1,4 @@
+101,john_doe,securePass123,2
+102,alice_smith,alicePass2024,1
+103,bob_miller,bobSecure789,0
+104, Raja, Raja@77, 0

@@ -1,0 +1,10 @@
+flightId,passengerName,date,fare
+FL001,John Doe,2023-07-01,150
+FL002,Jane Smith,2023-07-01,200
+FL001,Alice Johnson,2023-07-02,150
+FL003,Bob Brown,2023-07-02,250
+FL002,Charlie Black,2023-07-03,200
+FL001,John Doe,2023-07-01,150
+FL003,Eve White,2023-07-03,250
+FL002,Jane Smith,2023-07-01,200
+FL001,Alice Johnson,2023-07-02,150

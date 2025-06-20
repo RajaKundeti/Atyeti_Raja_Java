@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Atyeti_Raja_Java.iml" filepath="$PROJECT_DIR$/.idea/Atyeti_Raja_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Raja_12052025/Raja_12052025.iml" filepath="$PROJECT_DIR$/Raja_12052025/Raja_12052025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Raja_13052025/Raja_13052025.iml" filepath="$PROJECT_DIR$/Raja_13052025/Raja_13052025.iml" />

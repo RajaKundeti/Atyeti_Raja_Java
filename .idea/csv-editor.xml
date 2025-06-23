@@ -3,20 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Multithreading\src\stockmarketfeed\bse_feed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Multithreading\src\stockmarketfeed\nse_feed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Multithreading\src\stockmarketfeed\stocksdataperstock_HDFCBANK.csv">
           <value>
             <Attribute>
